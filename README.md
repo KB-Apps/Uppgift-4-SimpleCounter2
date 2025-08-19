@@ -11,4 +11,4 @@ Skapa en enkel app som ser ut likt bifogad bild enligt följande beskrivning:
 
 Kotlin i Android Studio med compose.
 
-<img width="374" height="779" alt="android1" src="https://github.com/user-attachments/assets/53713957-8188-4474-a36b-de9a97de4701" />
+<img width="608" height="1083" alt="android1" src="https://github.com/user-attachments/assets/8863b106-5aea-41b3-9b65-628a250d6ac7" />
