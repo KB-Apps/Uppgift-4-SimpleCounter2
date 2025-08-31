@@ -9,6 +9,6 @@ Skapa en enkel app som ser ut likt bifogad bild enligt följande beskrivning:
 - Om siffran är noll så visas inte minus-knapp.
 - Om siffran är större än 10 så visas inte plus-knapp.
 
-Kotlin i Android Studio med compose.
+Kotlin i Android Studio med jetpack compose.
 
 <img width="300"  alt="android1" src="https://github.com/user-attachments/assets/8863b106-5aea-41b3-9b65-628a250d6ac7" />
